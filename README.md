@@ -86,8 +86,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-09-09 144745.png>)
-![alt text](<Screenshot 2025-09-09 144804.png>)
-
+![alt text](<Screenshot 2025-09-16 144745.png>)
+![alt text](<Screenshot 2025-09-16 144804.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully
